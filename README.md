@@ -1,2 +1,2 @@
 # coldwinter
-# added new divs
+# to jest inny feature
